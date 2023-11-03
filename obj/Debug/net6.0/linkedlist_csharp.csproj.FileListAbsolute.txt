@@ -1,0 +1,14 @@
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/bin/Debug/net6.0/linkedlist_csharp
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/bin/Debug/net6.0/linkedlist_csharp.deps.json
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/bin/Debug/net6.0/linkedlist_csharp.runtimeconfig.json
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/bin/Debug/net6.0/linkedlist_csharp.dll
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/bin/Debug/net6.0/linkedlist_csharp.pdb
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.AssemblyInfoInputs.cache
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.AssemblyInfo.cs
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.csproj.CoreCompileInputs.cache
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.dll
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/refint/linkedlist_csharp.dll
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.pdb
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/linkedlist_csharp.genruntimeconfig.cache
+/home/telecom/Documentos/Proyectos/linkedlist_csharp/obj/Debug/net6.0/ref/linkedlist_csharp.dll
