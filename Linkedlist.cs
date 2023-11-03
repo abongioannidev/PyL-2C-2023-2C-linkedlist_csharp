@@ -92,4 +92,42 @@ public class Linkedlinst<T>
         return node.element;
     }
 
+
+    public int IndexOf(Predicate<T> comparison)
+    {
+        Node<T> node = this.firstNode;
+        int index = -1;
+        int position = 0;
+
+        while (node is not null)
+        {
+            if (comparison(node.element))
+            {
+                index = position;
+                break;
+            }
+            position++;
+            node = node.nextNode;
+        }
+
+        return index;
+    }
+
+    public T Find(Predicate<T> comparison)
+    {
+        Node<T> node = this.firstNode;
+        T element = default(T);
+
+        while (node is not null)
+        {
+            if (comparison(node.element))
+            {
+                element = node.element;
+                break;
+            }
+            node = node.nextNode;
+        }
+        return element;
+    }
+
 }
